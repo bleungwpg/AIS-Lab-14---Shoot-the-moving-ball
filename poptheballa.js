@@ -8,7 +8,7 @@ function setup()
 	createCanvas(800, 400);
 	x = 250;
 	y = 21;
-	count = 0;
+
 	moveD = 1;
 	moveR = 1;
 	
